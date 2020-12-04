@@ -1,0 +1,26 @@
+.btn-blue {
+	background-color: #AD4227;
+	padding: 15px 20px;
+	border-radius:4px;
+	color: white;
+	font-weight: bold;
+	font-size:23px;
+	font-family: 'Dancing Script', cursive;
+	margin-top:50px;
+
+}
+
+.catégorie {
+	color: #AD4227;
+	font-weight: bold;
+	font-family: 'Dancing Script', cursive;
+	flex-grow:1;
+	padding-left:20px;
+	font-size:18px;
+}
+
+#bouton:hover{
+	background-color:#797a7e;
+	color:white;
+	transition-duration: 0.65s;
+}
